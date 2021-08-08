@@ -5,5 +5,3 @@ function sum(...numbers: number[]): number {
 }
 
 export default sum;
-
-console.log(sum(98, 2));
